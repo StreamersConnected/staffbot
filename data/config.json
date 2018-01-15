@@ -3,12 +3,20 @@
     "command_prefix": "!",
     "questions": [
         {
-            "question": "What is your user ID?",
-            "embed_title": "User ID"
+            "question": "What position are you applying for? (Reviewers, Support Team, Mod, Dev, Admin)",
+            "embed_title": "Position"
         },
         {
             "question": "What is your age?",
             "embed_title": "Age"
+        },
+        {
+            "question": "What languages are you fluent in?",
+            "embed_title": "Languages"
+        },
+        {
+            "question": "What is your timezone?",
+            "embed_title": "Timezone"
         },
         {
             "question": "Specify how much time you could dedicate to helping in our server.",
@@ -19,7 +27,7 @@
             "embed_title": "Reason"
         }
     ],
-    "output": 397977130262200331,
+    "output": 373120511569559562,
     "dm_only": true,
     "apply_command_name": "apply",
     "welcome_message": "Hello, welcome to this staff application prompt.",
