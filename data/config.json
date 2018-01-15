@@ -1,28 +1,28 @@
 {
-    "token": "MzYxNTcyMjY0MTA3NTczMjU4.DS39GA.IgxexysZSsWUxvvt3Wk_5En3V9A",
+    "token": "NDAyMzY3MTA4NTcyMzgxMTg0.DT31tA.afqPyIgDSIfefvnWXODpw2P-vUY",
     "command_prefix": "!",
     "questions": [
         {
-            "question": "What is your server ID?",
-            "embed_title": "Server ID"
+            "question": "What is your user ID?",
+            "embed_title": "User ID"
         },
         {
-            "question": "What is your server name?",
-            "embed_title": "Server Name"
+            "question": "What is your age?",
+            "embed_title": "Age"
         },
         {
-            "question": "Give us a description of your server. (**300 Characters +**)",
-            "embed_title": "Server Description"
+            "question": "Specify how much time you could dedicate to helping in our server.",
+            "embed_title": "Available Time"
         },
         {
-            "question": "Give us a non-expirable invite link. (**Cannot be Discord.io/Discord.me**)",
-            "embed_title": "Server Invite"
+            "question": "Tell us why you would like to help us.",
+            "embed_title": "Reason"
         }
     ],
     "output": 397977130262200331,
     "dm_only": true,
     "apply_command_name": "apply",
-    "welcome_message": "Hello, welcome to this partnerships prompt.",
+    "welcome_message": "Hello, welcome to this staff application prompt.",
     "redis": {
         "host": "localhost",
         "port": 6379
